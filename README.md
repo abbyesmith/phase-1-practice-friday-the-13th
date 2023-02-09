@@ -7,15 +7,15 @@ Create an homage to Camp Crystal Lake's most infamous campers, Jason Vorhees.
 Run `json-server --watch db.json`
 
 ## Challenge 1
-For each movie returned from `http://localhost:3000/movies` create an image and add it to the `movie-list` nav element.
+<!-- For each movie returned from `http://localhost:3000/movies` create an image and add it to the `movie-list` nav element. -->
 
 ## Challenge 2
-As soon as the page loads, we should see the details of the **first** movie in the dataset.
+<!-- As soon as the page loads, we should see the details of the **first** movie in the dataset. -->
 
 ## Challenge 3
-When you click on each movie image in the top nav, you should populate the detail area with the `image`, `title`, `release_year`, `description`, `watched`, and `blood_amount` for the movie that was clicked.
+<!-- When you click on each movie image in the top nav, you should populate the detail area with the `image`, `title`, `release_year`, `description`, `watched`, and `blood_amount` for the movie that was clicked. -->
 
-If the value of 'watched' is false, the button should say 'Unwatched'. If the value is true, then the button should say 'Watched'.
+<!-- If the value of 'watched' is false, the button should say 'Unwatched'. If the value is true, then the button should say 'Watched'. -->
 
 ## Challenge 4
 When you click on the button in the details it should toggle between `Watched` or `Unwatched` depending on the value of `watched` for the movie currently being displayed.
